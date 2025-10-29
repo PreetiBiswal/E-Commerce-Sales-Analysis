@@ -30,5 +30,5 @@ Tool: MySQL / PostgreSQL
  📁 Files
  File | Description 
 -> `ecommerce_sales_dataset.xlsx` | Dataset used for analysis 
--> `ecommerce_queries.sql` | All SQL queries used 
--> `ecommerce_analysis_summary.md` | Key findings 
+-> `ecommerce_queries.pdf` | All SQL queries used 
+-> `ecommerce_analysis_summary.pdf` | Key findings 
